@@ -1,1 +1,2 @@
 # Smart-Attendance-System-using-CNN
+The smart attendance system using CNN is an innovative solution designed to automate the attendance tracking process in educational institutions, corporate settings, or any other organization requiring efficient and accurate attendance management. The system leverages the power of Convolutional Neural Networks, a type of deep learning algorithm known for its effectiveness in image recognition tasks, to identify and verify individuals in real-time based on their facial features.
